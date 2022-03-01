@@ -25,4 +25,3 @@ runs:
 
     - name: Git LFS Pull
       run: git lfs pull
-      shell: bash
